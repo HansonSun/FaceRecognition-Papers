@@ -30,5 +30,11 @@ Additive Margin Softmax for Face Verification<br>
 https://arxiv.org/abs/1801.05599<br>
 Ring loss: Convex Feature Normalization for Face Recognition<br>
 https://arxiv.org/abs/1803.00130<br>
-[centerloss]A Discriminative Feature Learning Approach for Deep Face Recognition<br>
+Marginal Loss for Deep Face Recognition<br>
+https://ibug.doc.ic.ac.uk/media/uploads/documents/deng_marginal_loss_for_cvpr_2017_paper.pdf<br>
+CosFace: Large Margin Cosine Loss for Deep Face Recognition<br>
+https://arxiv.org/abs/1801.09414<br>
+Learning Deep Features via Congenerous Cosine Loss for Person Recognition<br>
+https://arxiv.org/abs/1702.06890<br>
+A Discriminative Feature Learning Approach for Deep Face Recognition<br>
 https://ydwen.github.io/papers/WenECCV16.pdf<br>
