@@ -42,6 +42,8 @@ Ring loss: Convex Feature Normalization for Face Recognition<br>
 https://arxiv.org/abs/1803.00130<br>
 CosFace: Large Margin Cosine Loss for Deep Face Recognition<br>
 https://arxiv.org/abs/1801.09414<br>
+MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices<br>
+https://arxiv.org/abs/1804.07573
 
 
 
