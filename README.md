@@ -48,7 +48,8 @@ Deep Face Recognition: A Survey
 https://arxiv.org/abs/1804.06655
 Wildest Faces: Face Detection and Recognition in Violent Settings
 https://arxiv.org/abs/1805.07566
-
+Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
+https://arxiv.org/abs/1803.00839
 
 
 
