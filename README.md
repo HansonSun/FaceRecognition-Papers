@@ -44,7 +44,7 @@ CosFace: Large Margin Cosine Loss for Deep Face Recognition<br>
 https://arxiv.org/abs/1801.09414<br>
 MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices<br>
 https://arxiv.org/abs/1804.07573<br>
-Deep Face Recognition: A Survey
+Deep Face Recognition: A Survey<br>
 https://arxiv.org/abs/1804.06655<br>
 Wildest Faces: Face Detection and Recognition in Violent Settings<br>
 https://arxiv.org/abs/1805.07566<br>
