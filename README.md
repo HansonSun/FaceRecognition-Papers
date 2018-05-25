@@ -43,13 +43,13 @@ https://arxiv.org/abs/1803.00130<br>
 CosFace: Large Margin Cosine Loss for Deep Face Recognition<br>
 https://arxiv.org/abs/1801.09414<br>
 MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices<br>
-https://arxiv.org/abs/1804.07573
+https://arxiv.org/abs/1804.07573<br>
 Deep Face Recognition: A Survey
-https://arxiv.org/abs/1804.06655
-Wildest Faces: Face Detection and Recognition in Violent Settings
-https://arxiv.org/abs/1805.07566
-Pose-Robust Face Recognition via Deep Residual Equivariant Mapping
-https://arxiv.org/abs/1803.00839
+https://arxiv.org/abs/1804.06655<br>
+Wildest Faces: Face Detection and Recognition in Violent Settings<br>
+https://arxiv.org/abs/1805.07566<br>
+Pose-Robust Face Recognition via Deep Residual Equivariant Mapping<br>
+https://arxiv.org/abs/1803.00839<br>
 
 
 
