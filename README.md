@@ -52,6 +52,10 @@ Wildest Faces: Face Detection and Recognition in Violent Settings<br>
 https://arxiv.org/abs/1805.07566<br>
 Pose-Robust Face Recognition via Deep Residual Equivariant Mapping<br>
 https://arxiv.org/abs/1803.00839<br>
+Minimum Margin Loss for Deep Face Recognition<br>
+https://arxiv.org/abs/1805.06741<br>
+Fully Associative Patch-based 1-to-N Matcher for Face Recognition<br>
+https://arxiv.org/abs/1805.06306<br>
 
 
 
