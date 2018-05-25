@@ -13,6 +13,8 @@ https://arxiv.org/abs/1503.03832<br>
 A Light CNN for Deep Face Representation with Noisy Labels<br>
 https://arxiv.org/abs/1511.02683<br>
 ## 2016
+Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-spectral Hallucination and Low-rank Embedding<br>
+https://arxiv.org/abs/1611.06638<br>
 Large-Margin Softmax Loss for Convolutional Neural Networks<br>
 https://arxiv.org/abs/1612.02295<br>
 Range Loss for Deep Face Recognition with Long-tail<br>
