@@ -56,6 +56,10 @@ Minimum Margin Loss for Deep Face Recognition<br>
 https://arxiv.org/abs/1805.06741<br>
 Fully Associative Patch-based 1-to-N Matcher for Face Recognition<br>
 https://arxiv.org/abs/1805.06306<br>
+Towards Interpretable Face Recognition<br>
+https://arxiv.org/abs/1805.00611<br>
+Robust Face Recognition with Deeply Normalized Depth Images<br>
+https://arxiv.org/abs/1805.00406<br>
 
 
 
