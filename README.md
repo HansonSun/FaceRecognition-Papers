@@ -17,7 +17,7 @@ Large-Margin Softmax Loss for Convolutional Neural Networks<br>
 https://arxiv.org/abs/1612.02295<br>
 Range Loss for Deep Face Recognition with Long-tail<br>
 https://arxiv.org/abs/1611.08976<br>
-A Discriminative Feature Learning Approach for Deep Face Recognition<br>
+[centerloss]A Discriminative Feature Learning Approach for Deep Face Recognition<br>
 https://ydwen.github.io/papers/WenECCV16.pdf<br>
 ## 2017
 Marginal Loss for Deep Face Recognition<br>
