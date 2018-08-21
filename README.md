@@ -1,6 +1,8 @@
 # FaceRecognition-Papers
 Face Recognition related Papers<br>
 ## 2014
+DeepFace: Closing the Gap to Human-Level Performance in Face Verification<br>
+https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf<br>
 [DeepID1]Deep Learning Face Representation from Predicting 10,000 Classes<br>
 https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sun_Deep_Learning_Face_2014_CVPR_paper.pdf<br>
 [DeepID2]Deep Learning Face Representation by Joint Identification-Verification<br>
