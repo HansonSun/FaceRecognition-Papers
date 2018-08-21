@@ -10,6 +10,8 @@ https://arxiv.org/abs/1406.4773<br>
 [DeepID2+]Deeply learned face representations are sparse, selective, and robust<br>
 https://arxiv.org/abs/1412.1265<br>
 ## 2015
+Deep Face Recognition<br>
+https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf<br>
 [DeepID3]DeepID3: Face Recognition with Very Deep Neural Networks<br>
 https://arxiv.org/abs/1502.00873<br>
 FaceNet: A Unified Embedding for Face Recognition and Clustering<br>
