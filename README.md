@@ -26,6 +26,8 @@ https://arxiv.org/abs/1611.08976<br>
 [centerloss]A Discriminative Feature Learning Approach for Deep Face Recognition<br>
 https://ydwen.github.io/papers/WenECCV16.pdf<br>
 ## 2017
+L2-constrained Softmax Loss for Discriminative Face Verification<br>
+https://arxiv.org/pdf/1703.09507.pdf<br>
 Marginal Loss for Deep Face Recognition<br>
 https://ibug.doc.ic.ac.uk/media/uploads/documents/deng_marginal_loss_for_cvpr_2017_paper.pdf<br>
 [cocoloss v1]Learning Deep Features via Congenerous Cosine Loss for Person Recognition<br>
